@@ -41,37 +41,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/carlosdaniel005/carlosdaniel005/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
